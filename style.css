@@ -1,6 +1,6 @@
 #titlebar {
     background-color: black;
-    height: 10px;
-    mask-border-width: 10%;
+    height: 10%;
+    width: initial;
     margin-bottom: 60%;
 }
