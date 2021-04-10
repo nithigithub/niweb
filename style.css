@@ -1,6 +1,6 @@
 #titlebar {
     background-color: black;
-    height: 10px;
+    line-height: 10px;
     border-left-width: 10%;
-    margin-bottom: 270%;
+    margin-bottom: 100%;
 }
