@@ -1,5 +1,6 @@
 #titlebar {
     background-color: black;
-    height: 30px;
-    width: 100px;
+    height: 10px;
+    width: 100%;
+    color: red;
 }
